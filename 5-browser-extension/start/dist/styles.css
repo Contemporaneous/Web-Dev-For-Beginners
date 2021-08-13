@@ -25,7 +25,7 @@
 	--mono: SFMono-Regular, Consolas, 'Liberation Mono', Menlo, Courier, 'Courier New', monospace;
 	--c1: #0074d9;
 	--c2: #eee;
-	--c3: #fff;
+	--c3: rgb(117, 71, 177);
 	--c4: #000;
 	--c5: #fff;
 	--m1: 8px;
@@ -35,7 +35,7 @@
 @media (prefers-color-scheme: dark) {
 	:root {
 		--c2: #333;
-		--c3: #1e1f20;
+		--c3: #266cb3;
 		--c4: #fff;
 	}
 }
